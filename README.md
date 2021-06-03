@@ -44,14 +44,15 @@ python generateCaption.py.py -videoFeature feature_path --inputType feature
 │   └── pytorch_i3d.py  
 ├── final_checkpoint  
 │   └── best_model.pth  
-├── frame.jpg  
-├── generateCaption.py  
-├── loss.txt  
+├── generateCaption.py   
 ├── model  
 │   ├── Attention.py  
 │   ├── Seq2Seq.py  
 │   └── local_constructor.py  
 ├── pytorch-i3d  
 ├── test.py  
-├── train.py  
-└── train_results_loss.png  
+├── train.py   
+
+* **MSR-VTT** is the folder of dataset 
+*  ` config.py ` is the onfigureation file 
+*  **pytorch-i3d** is the pretrained feature extractors by the [i3d repository](https://github.com/piergiaj/pytorch-i3d/)
