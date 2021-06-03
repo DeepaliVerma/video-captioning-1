@@ -13,7 +13,7 @@ python extract_features.py
 python train.py
 ```
 
-# Testing: Caption Generation 
+## Testing: Caption Generation 
 ```
 python generateCaption.py.py -videoFeature feature_path --inputType feature
 ```
