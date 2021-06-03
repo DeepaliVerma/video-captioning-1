@@ -23,8 +23,8 @@ python generateCaption.py.py -videoFeature feature_path --inputType feature
 ## File Description 
 ├── MSR-VTT  
 │   ├── MSR-VTT  
-│   ├── MSR-VTT-i3dfeatures  
-│   ├── MSR-VTT-train.json 
+│   ├── MSR-VTT-i3dfeatures     
+│   ├── MSR-VTT-train.json    
 │   └── MSR-VTT-val.json  
 ├── config.py  
 ├── dataset  
